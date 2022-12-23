@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Bedirhan İLİK</h1>
-<h3 align="center">I was studying Karadeniz Technical University three years ago. Ehen I was there, I improved my English because I was studying prep-school. After I changed my department. Now I'm studying software engineering at Fırat University.</h3>
+<h3 align="center">I was studying Karadeniz Technical University four years ago. When I was there, I improved my English because I was studying prep-school. After I changed my department. Now I'm studying software engineering at Fırat University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafailik&label=Profile%20views&color=0e75b6&style=flat" alt="mustafailik" /> </p>
 
